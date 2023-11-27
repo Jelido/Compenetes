@@ -1,1 +1,1 @@
-# Compenetes
+# Componentes
