@@ -1,0 +1,28 @@
+#Lista{
+
+    margin: 0;
+    list-style: none;
+    color: #3F3D56;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 147%;
+    display: flex;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+
+#Insta{
+
+    margin-right: 40px;
+
+}
+footer{
+
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: 10%;   
+    border-top: 1px solid #292a2b2c;
+    
+}
